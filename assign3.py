@@ -1,10 +1,4 @@
-#3. Write a recursive python function to print first N odd natural numbers
-
-def nodd(n):
-    if n==1:
-        return 1
-    else:
-        print((2*n)-1)
-        nodd(n-1)
-nod=int(input("enter a number: "))
-nodd(nod)
+#print this statement in commandline interface
+#for this we need to go inside in the folder of this file open the bcmd and give this command python- assign3.py 
+print("Hey! Whatsapp")
+print()
