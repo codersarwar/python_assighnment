@@ -1,2 +1,1 @@
-name = "Sarwar"
-print(name)
+# Already created in A0.py and name A1.py
